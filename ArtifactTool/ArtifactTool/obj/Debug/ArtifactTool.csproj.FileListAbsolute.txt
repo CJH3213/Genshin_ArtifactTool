@@ -1,0 +1,11 @@
+E:\CJHFiles\.NET\ArtifactTool\ArtifactTool\ArtifactTool\bin\Debug\ArtifactTool.exe.config
+E:\CJHFiles\.NET\ArtifactTool\ArtifactTool\ArtifactTool\bin\Debug\ArtifactTool.exe
+E:\CJHFiles\.NET\ArtifactTool\ArtifactTool\ArtifactTool\bin\Debug\ArtifactTool.pdb
+E:\CJHFiles\.NET\ArtifactTool\ArtifactTool\ArtifactTool\obj\Debug\ArtifactTool.csproj.AssemblyReference.cache
+E:\CJHFiles\.NET\ArtifactTool\ArtifactTool\ArtifactTool\obj\Debug\ArtifactTool.csproj.SuggestedBindingRedirects.cache
+E:\CJHFiles\.NET\ArtifactTool\ArtifactTool\ArtifactTool\obj\Debug\ArtifactTool.Properties.Resources.resources
+E:\CJHFiles\.NET\ArtifactTool\ArtifactTool\ArtifactTool\obj\Debug\ArtifactTool.csproj.GenerateResource.cache
+E:\CJHFiles\.NET\ArtifactTool\ArtifactTool\ArtifactTool\obj\Debug\ArtifactTool.csproj.CoreCompileInputs.cache
+E:\CJHFiles\.NET\ArtifactTool\ArtifactTool\ArtifactTool\obj\Debug\ArtifactTool.exe
+E:\CJHFiles\.NET\ArtifactTool\ArtifactTool\ArtifactTool\obj\Debug\ArtifactTool.pdb
+E:\CJHFiles\.NET\ArtifactTool\ArtifactTool\ArtifactTool\obj\Debug\ArtifactTool.Form1.resources
